@@ -1,6 +1,6 @@
 import scrapy
 
-from myproject.items import Headline  # ItemのHeadlineクラスをインポート。
+from chapter6.items import Headline  # ItemのHeadlineクラスをインポート。
 
 
 class NewsSpider(scrapy.Spider):

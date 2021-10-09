@@ -6,10 +6,10 @@
 import scrapy
 
 
-class Chapter6Item(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+# class Chapter6Item(scrapy.Item):
+#     # define the fields for your item here like:
+#     # name = scrapy.Field()
+#     pass
 
 
 class Headline(scrapy.Item):
